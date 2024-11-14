@@ -17,6 +17,8 @@ The header to use at the top of your .c file is given below
 Once its is forked you can upload your code to the forked repository
 Once you commit to the forked repository click the button to initiate a Pull Request
 Submit the pull request and if your code is correct your pull request will be accepted by one of the admin.
+
+```
 /*
   Roll No.:
   Student Name:
@@ -26,3 +28,4 @@ Submit the pull request and if your code is correct your pull request will be ac
     - Roll No. of Assignee:
     - Assignee Name:
 */
+```
