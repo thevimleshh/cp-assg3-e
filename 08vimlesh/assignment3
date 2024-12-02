@@ -1,0 +1,22 @@
+/*
+roll no. 8
+student name: vimlesh yadav
+program title: wap to print any table 
+
+task given by:
+- roll no.of assignee: 7
+- assignee name: Danish shaikh
+*/
+
+#include<stdio.h>
+int main(){
+    int i,num,multi;
+    printf("\nEnter a any table : ");
+    scanf("%d",&num);
+    printf("\n");
+    for(i=1;i<=10;i++){
+        multi=num*i;
+        printf("%d * %d = %d\n",num,i,multi);
+    }
+    return 0;
+}
